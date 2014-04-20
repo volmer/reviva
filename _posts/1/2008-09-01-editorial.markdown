@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Editorial - Número 1'
+title: 'Editorial'
 categories: '1'
 author: 'Volmer'
 ---

@@ -5,7 +5,7 @@ categories: '1'
 author: 'Volmer'
 ---
 
-# O que é um zine?
+## O que é um zine?
 
 É uma publicação amadora com o intuito de divulgar informações e textos
 acerca de um tema. Ao longo do tempo já surgiram fanzines sobre diversos
@@ -25,7 +25,7 @@ Que a nossa arte e a nossa cultura realmente reviva um dia! Que outras
 pessoas sejam motivadas a tomar iniciativas semelhantes a esta, e que mentes
 sejam libertas da mesmice e do analfabetismo sociocultural. REVIVA!
 
-## Dedicação e Agradecimentos
+## Dedicatória e Agradecimentos
 
 A todos que têm coragem para se opor aos monopólios de poder em Correntina.
 A todos que não se curvam perante famílias poderosas, políticos, religiões,

@@ -35,8 +35,8 @@ liberdade que é vendida pelo governo à massa sedenta que aqui habitam. Deixe-m
 explicar melhor: aqui o prefeito governa na base dos favores. Sim, favores. Ele
 cumpre a obrigação que lhe cabe, como alguém ELEITO PELO POVO, e ainda sai
 dizendo, e há muitos que acreditam, que ele fez um favor. Não sei se o amigo se
-lembra dos gregos, os gregos que idealizaram a res publica, recorda-se? Res
-Publica, coisa do povo, mas que aqui na verdade não passa de “coisa do povo que
+lembra dos gregos, os gregos que idealizaram a *res publica*, recorda-se? *Res
+Publica*, coisa do povo, mas que aqui na verdade não passa de “coisa do povo que
 apóia o prefeito.
 
 Acredita, caro amigo, que a população, o mesmo povo que elegeu este arrogante

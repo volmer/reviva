@@ -54,4 +54,5 @@ Questione-se e aja. Os governos de todos acabam tornando-se governos de poucos, 
 disso. Não participe! Não vote! Anule! Dê uma imensa banana àqueles que só se lembram de
 você de 4 em 4 anos!
 
-“O VERDADEIRO AMIGO DO POVO É O POVO ORGANIZADO” - Graciliano Ramos
+> O verdadeiro amigo do povo é o povo organizado.<br>
+  *Graciliano Ramos*

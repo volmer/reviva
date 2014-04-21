@@ -33,6 +33,12 @@ p {
   text-align: justify;
 }
 
+li {
+  margin-left: 40px;
+  line-height: 1.5;
+  text-align: justify;
+}
+
 a, a:visited {
   text-decoration: none;
   color: #999;
@@ -51,7 +57,7 @@ h2 {
 }
 
 h1, h2 {
-  margin: 20px 0 10px;
+  margin: 30px 0 10px;
 }
 
 h1, h1 a, h1 a:visited, h2, h2 a, h2 a:visited, h3, h3 a, h3 a:visited {
@@ -77,6 +83,32 @@ h1 a:hover, h2 a:hover, h3 a:hover {
 }
 .container {
   zoom:1; /* For IE 6/7 (trigger hasLayout) */
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 20px;
+  padding: 1.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote p {
+  font-size: 18px;
+  display: inline;
+}
+
+blockquote em {
+  font-size: 14px;
 }
 
 /* HEADER */

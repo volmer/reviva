@@ -40,4 +40,4 @@ presentes de candidatos. Em outubro, mostre com sua abstenção que você
 acredita que uma realidade melhor é possível. Uma realidade sem novas
 ou velhas figuras pomposas reinando sobre os recursos do município.
 
-## "Nada imposto é de bom gosto"
+> Nada imposto é de bom gosto.

@@ -51,3 +51,6 @@ Mais dois anos de lucro em cima do rebanho paciente que aguarda mais façanhas
 dos malabaristas da fé. E Joãozinho continua ralando nos estudos e no emprego
 para ser um profissional de sucesso? Vai abrir uma igreja, meu filho. Além de
 um negócio próprio, vc ainda é idolatrado como um pop star. Tem algo melhor?
+
+> Ai de vocês que vivem estudando religião e escondem do povo a verdade...<br>
+> *Jesus Cristo*

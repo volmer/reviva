@@ -27,8 +27,8 @@ natal, quase como um alívio na consciência, principalmente, daqueles/as mais
 religiosos.
 
 Diante dessa reflexão, é impossível referir-me a essa data e à caridade sem recordar
-da fala do escritor irlandês, Oscar Wilde, da qual compartilho, escrita no livro,
-“A alma do homem sob o socialismo”.  Wilde aborda a caridade como uma maneira de
+da fala do escritor irlandês, *Oscar Wilde*, da qual compartilho, escrita no livro,
+*A alma do homem sob o socialismo*.  Wilde aborda a caridade como uma maneira de
 manter o pobre na condição que está, agravado pela condição humilhante de receber
 migalhas, o que poderíamos considerar as doações caridosas ocorridas de maneira intensa
 durante o natal. O mesmo autor questiona: por que contentar-se com as migalhas que

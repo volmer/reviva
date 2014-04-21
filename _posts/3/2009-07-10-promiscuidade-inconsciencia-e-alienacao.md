@@ -21,10 +21,10 @@ As pessoas vivem procurando um modo de disfarçar seus defeitos aparentes com
 pretextos fúteis por uma vida melhor. Se vê isso quando o assunto vegetarianismo
 é tocado numa conversa:”-ah, a carne é que dá sustância-” ou “-nunca pararia de
 comer carne-.”Sem contar naquelas outras milhares de frases pró-alcoolismo das
-massas, sejam elas do underground ou não. Viver com princípios não é difícil,
+massas, sejam elas do *underground* ou não. Viver com princípios não é difícil,
 difícil é deixar de ser hipócrita.
 
-Esses rockers de hoje não sabem nem um terço do que é o rock and roll, movimento
+Esses *rockers* de hoje não sabem nem um terço do que é o rock and roll, movimento
 musical negro que assim como o hip hop foi tão mal falado e censurado na época
 de sua criação. Um estilo que podia não ser contra as drogas, por ser tão puro
 e inocente, mas mesmo assim não fazia apologias ao álcool nem mesmo à

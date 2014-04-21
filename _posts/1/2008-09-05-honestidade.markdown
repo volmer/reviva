@@ -53,5 +53,5 @@ válida! NÃO SE ISOLE! Se interaja com o que é melhor para todos nós, seja fi
 futuro de todos nós. NÃO SEJA IGNORANTE! Faça algo a seu favor. De quê adianta
 criticar sem construir uma estratégia acessível?
 
-Reflita! Estas palavras não foram feitas para ler apenas, mas para se guardar
-na mente.
+**Reflita! Estas palavras não foram feitas para ler apenas, mas para se guardar
+na mente.**

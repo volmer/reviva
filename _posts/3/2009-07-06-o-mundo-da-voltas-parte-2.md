@@ -6,7 +6,7 @@ author: 'Volmer'
 ---
 
 Quem aí já viu a nova campanha publicitária da Folha de São Paulo? No comercial,
-seu elenco de manipuladores aparece recitando Mosca Na Sopa, de Raul Seixas.
+seu elenco de manipuladores aparece recitando *Mosca Na Sopa*, de Raul Seixas.
 Liguemos os fatos, então: a Folha de São Paulo, grande nome da mídia corporativa
 nacional, causou revolta e repúdio no início do ano pelo episódio da “Ditabranda”,
 no qual usou tal termo jocoso para classificar como mínima a era de assassinatos,

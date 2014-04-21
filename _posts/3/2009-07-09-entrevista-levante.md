@@ -5,14 +5,14 @@ categories: '3'
 author: 'xsuxsuzetex'
 ---
 
-Crianças, aí vai uma entrevista com o Levante, banda paulistana da zona sul que
+*Crianças, aí vai uma entrevista com o* Levante, *banda paulistana da zona sul que
 tem uns dois anos de estrada. Não vou ficar rotulando o som ou gênero, sejam
-livres pra escutar e opinar no myspace deles (myspace.com/levantehardcore).
+livres pra escutar e opinar no myspace deles [myspace.com/levantehardcore](http://myspace.com/levantehardcore).
 Jefferson (guitarra) foi a vítima entrevistada, qualquer dúvida podem encher o
-saco dele.
+saco dele.*
 
-## Fala aí um pouco da história da banda, antiga formação, se foi uma continuação
-do No Sockscore ou se não teve nada a ver...
+**Fala aí um pouco da história da banda, antiga formação, se foi uma continuação
+do No Sockscore ou se não teve nada a ver...**
 
 A banda surgiu em maio de 2007. Nós já éramos amigos e praticamente vizinhos, e
 tínhamos em nossa região uma cena hardcore crescente. Organizávamos algumas coisas
@@ -23,8 +23,8 @@ acabaram saindo na demo mesmo. Hoje, dois anos depois, vemos que o No Sockscore
 foi um alicerce para a evolução de cada um da banda, mas atualmente do No Sockscore
 só sobramos eu (Jefferson) e o Nonô.
 
-## Como foi a idéia de formar a banda e os objetivos? Estes últimos mudaram com o
-tempo ou foram acrescidos de algo?
+**Como foi a idéia de formar a banda e os objetivos? Estes últimos mudaram com o
+tempo ou foram acrescidos de algo?**
 
 A idéia inicial era fazer uma banda com letras conscientes, com sonoridade melódica
 e agressiva ao mesmo tempo e tentar acrescentar algo para as pessoas que ouvissem.
@@ -35,10 +35,10 @@ conta com todos integrantes vegetarianos. Isso pode ser encarado como acréscimo
 inclusive positivos. Mas as idéias centrais ainda estão estabelecidas e melhor
 aproveitadas.
 
-## Na primeira demo pode-se perceber uma temática bem pessoal, sobre a vida na
+**Na primeira demo pode-se perceber uma temática bem pessoal, sobre a vida na
 periferia de Sampa, o mundo alienado e materialista do capital e a dureza diária de
 quem luta para sobreviver. Também pode-se notar uma certa espiritualidade, sobretudo
-no nome de algumas músicas. Fale a respeito.
+no nome de algumas músicas. Fale a respeito.**
 
 As temáticas do disco retratam o que foi observado nos anos de nossa infância e
 vivenciado na adolescência. São críticas construtivas ao sistema do capital. Embora
@@ -53,8 +53,8 @@ religião e eram seres capazes de manter a fio seus compromissos com imparcialid
 de certa forma. Vide Leon Tolstoi, Henry David Thoreau, Martin Luther King, Gandhi,
 dentre outros.
 
-## Os próximos materiais para gravação do novo cd já estão prontos? Como será o som
-dessa vez? Algum show ou algo em vista?
+**Os próximos materiais para gravação do novo cd já estão prontos? Como será o som
+dessa vez? Algum show ou algo em vista?**
 
 Para o CD ainda faltam duas músicas a serem finalizadas, num total de nove temas
 para o disco. Iremos fazer mais algumas apresentações neste ano e depois vamos

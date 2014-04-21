@@ -8,7 +8,7 @@ author: "She Drink's"
 Entre o carnaval, a política e outros costumes”populares vive espremida
 uma força de (contra)cultura que na maioria das vezes passa despercebida
 da grande massa baiana. Sem ter público ou mesmo condições favoráveis o
-rock and roll por aqui no oeste sobrevive como forma de resistência e
+rock and roll por aqui no oeste **sobre**vive como forma de resistência e
 amor à arte, mas além da pobreza financeira que assola essas bandas
 existem várias outras pobrezas que impedem o avanço por aqui, entre elas
 a espiritual e, é claro, a cultural. Contradição? Com certeza, num estado
@@ -26,20 +26,21 @@ tempos em que a cidade tinha um número de bandas que era grande até pelo
 tamanho da cidade, mas a falta de interesse de uns, carência de público e
 aparelhagem foram consumindo essas bandas uma a uma. As bandas que mais
 tiveram êxitos em seus trabalhos foram:
-* DRs - Banda de hardcore libertário e a mais antiga banda da cidade,
+
+* **DRs** - Banda de hardcore libertário e a mais antiga banda da cidade,
   que está até hoje na ativa, tão fiel quanto sempre ao estilo e ideal.
-* Majestade - Banda de brás-rock, teve várias formações e nomes. Foi
+* **Majestade** - Banda de brás-rock, teve várias formações e nomes. Foi
   formada pouco depois da DRs, com seu repertório composto de músicas mais
   populares do rock brasileiro, fez seu nome na cena. Tudo indica que a
   banda se desfez.
-* Poluição Sonora - Punk desde sua criação até seu fim essa banda trouxe
-  todos os componentes que o punk tinha, desde o faça você mesmo até atitudes
-  sempre marcantes no palco. O seu ápice foi o lendário festival Rock In Fest
+* **Poluição Sonora** - Punk desde sua criação até seu fim essa banda trouxe
+  todos os componentes que o punk tinha, desde o *faça você mesmo* até atitudes
+  sempre marcantes no palco. O seu ápice foi o lendário festival *Rock In Fest*
   onde os membros da banda tiraram a roupa no meio do show e tocaram só de
   cueca! A banda se encerrou no Ajuda Ao Vivo II, fechando o primeiro dia do
   evento.
-* Relutantes - Banda que ainda está na ativa na cidade. Junto com DRs são as
-  únicas bandas restantes da Correntina Old School.
+* **Relutantes** - Banda que ainda está na ativa na cidade. Junto com *DRs* são as
+  únicas bandas restantes da *Correntina Old School*.
 
 ## Bom Jesus da Lapa
 Não tenho muito conhecimento sobre a cena, então irei falar até onde conheço.
@@ -54,9 +55,10 @@ porque de fato são. Na cena dessas cidades temos muitas bandas, muito público
 é o problema da cidade? Talvez um pouco mais de união entre as bandas e
 respeito por si e pelo rock and roll que fazem. As bandas mais conhecidas da
 cidade são:
-* Cesta Básica - Banda cover de Raimundos, também tocou no Ajuda Ao Vivo II.
-* Brutal War - Banda de black metal e representante mais antiga do metal.
-* Anti-vírus - Banda de pop-emocore.
+
+* **Cesta Básica** - Banda cover de Raimundos, também tocou no Ajuda Ao Vivo II.
+* **Brutal War** - Banda de black metal e representante mais antiga do metal.
+* **Anti-vírus** - Banda de pop-emocore.
 
 ## Barreiras
 Segundo conhecedo-res da cena local, o movimento não anda muito firme por

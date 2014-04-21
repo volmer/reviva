@@ -58,6 +58,6 @@ ficará legada eternamente ao segundo plano, para assegurar que a indústria
 inescrupulosa continue emitindo poluentes em larga escala e sacrificando a vitalidade
 do mundo em prol da vitalidade dos próprios bolsos.
 
-## Esperar que líderes governamentais empenhem gastos para reduzir as emissões de CO2
-é pura inocência.
+> Esperar que líderes governamentais empenhem gastos para reduzir as emissões de CO2
+  é pura inocência.
 

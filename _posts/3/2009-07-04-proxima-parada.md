@@ -42,8 +42,8 @@ internet ou durante os períodos de recessos, nada se compara à
 presença diária daqueles que fazem a diferença e dizem "não" à
 dominação política, econômica, cultural e religiosa em Correntina.
 
-Mas, apesar dos desfalques e das dificuldades, não se pode calar, não
-e pode desistir. Além do mais, em meio à perseverança remanescente
+Mas, apesar dos desfalques e das dificuldades, não se pode calar, **não
+se pode desistir**. Além do mais, em meio à perseverança remanescente
 talvez surjam novas gerações que perpetuem o movimento, que sigam adiante
 com a resistência iniciada pelos primeiros. A luta deve continuar sempre,
 e a natureza sabe disso. Perto ou longe, com cem ou com dez, permanecermos

@@ -5,9 +5,9 @@ categories: '4'
 author: 'Volmer'
 ---
 
-## Relato dos acontecimentos de quando em mais um ano me juntei ao Coletivo Faixa-Preta,
+*Relato dos acontecimentos de quando em mais um ano me juntei ao Coletivo Faixa-Preta,
 de Correntina, para realizar uma manifestação de caráter pacífico durante o desfile do
-7 de setembro.
+7 de setembro.*
 
 Estávamos em seis. Um pequeno grupo, porém significativo, que foi capaz de marcar a
 cerimônia, arrancando críticas, espantos, xingamentos e até elogios. Chegamos cedo ao
@@ -79,5 +79,3 @@ terra sem lei.
 
 Agradecemos o apio que tivemos e pedimos aos companheiros que repassem esse caso por
 e-mail, blogs, zines. A denúncia deve ecoar.
-
-

@@ -15,9 +15,9 @@ Verdurada original. Mas a iniciativa era imperdível: uma noite voltada ao hardc
 positivo em grande estilo. Convites feitos, o esquema foi pegar carona rumo ao Círculo
 Operário do Cruzeiro para conferir a primeira edição do Verdurada DF.
 
-“Quebre as regras do esquema, batalhe por si só,
-queime a bandeira e mate o Poder!”
-Tirei Zero
+> Quebre as regras do esquema, batalhe por si só,
+  queime a bandeira e mate o Poder!<br>
+  *Tirei Zero*
 
 O evento rolou no cabalístico 31 de outubro, halloween e ironicamente o segundo turno
 das eleições. Trocar o sufrágio pelo Verdurada foi belo. Marcado para as 16 horas,
@@ -26,9 +26,9 @@ de bike, que pagou 5. Logo no início foi justificado o uso do palco, já que o 
 seria de equidade entre bandas e público, dividindo o mesmo chão. Ao menos o famigerado
 foi largamente aproveitado pela galera para stage dives.
 
-Abrindo o evento rolou a banda Gulag (DF), com a boa ‘música de prisioneiro’. Show bem
+Abrindo o evento rolou a banda **Gulag** (DF), com a boa ‘música de prisioneiro’. Show bem
 apreciado, mesmo que somente uma parcela do público que acabaria compondo a noite
-estivesse presente. Em seguida foi a vez da curitibana Black Sea, mandando seu post-rock
+estivesse presente. Em seguida foi a vez da curitibana **Black Sea**, mandando seu post-rock
 bem feito, prato cheio para os apreciadores do estilo.
 
 A essa altura, circulei e conferi as bancas em exposição. Muitos materiais à venda, discos,
@@ -37,7 +37,7 @@ enriquecendo o evento com conteúdo. Não poderia faltar a comida vegana, com sa
 salgados, bolos, tortas, cup cakes e muitos outros. É sempre bom comer tranquilo tudo o
 que lhe é servido!
 
-A terceira banda a mandar o som foi xLost in Hatex. Um nome bem conhecido do straight
+A terceira banda a mandar o som foi **xLost in Hatex**. Um nome bem conhecido do straight
 edge brasiliense fez um show com muita presença. O público, a essas horas com força total,
 acendeu a rodada de mosh da noite, ao som do deathcore bruto. Apenas soou estranho o
 anúncio de premiar uma bermuda, motivação sem sentido. Mas ficou beleza quando somente
@@ -54,7 +54,7 @@ importantes. Não adianta agir na libertação animal e ignorar a questão do o 
 a distribuição de renda. Igualmente, pensar em transporte público eficiente requer considerar
 a segurança e o combate a preconceitos, e a construir uma nova mentalidade.
 
-De volta aos shows, foi a vez de Tirei Zero (GO). Hardcore skater 80’s que surpreendeu e
+De volta aos shows, foi a vez de **Tirei Zero** (GO). Hardcore skater 80’s que surpreendeu e
 marcou a noite. Era bonito de ver: roda com gente de tudo que é idade, sexo e envergadura,
 tomando o palco e os microfones de assalto, contagiada pelo som nervoso e irreverente da
 banda. Do palco também lançaram idéias e apelos à maior união da cena do DF e ao prestígio
@@ -67,14 +67,14 @@ foi literalmente um pulo. Era visível nos rostos suados a satisfação de  comp
 aquele momento, o espírito e a liberdade que sempre nos flagramos invejando dos registros
 de gigs oitentistas que parecem tão distantes da nossa realidade invertida.
 
-A última banda foi Nunca Inverno (SC), trazendo um decente hardcore melódico, politizado e
+A última banda foi **Nunca Inverno** (SC), trazendo um decente hardcore melódico, politizado e
 consciente. A banda, bem como as demais de outros estados, fizeram bonito, vindo de longe
 para somar em grande estilo às bandas locais.
 
-“Rule of the streets #1: Fuck the police!
-Rule of the streets #2: Fuck the police!
-Rule of the streets #3: Fuck the police!”
-xEdge With Dreadsx
+> Rule of the streets #1: Fuck the police!<br>
+  Rule of the streets #2: Fuck the police!<br>
+  Rule of the streets #3: Fuck the police!<br>
+  *xEdge With Dreadsx*
 
 Ao final das apresentações foi a hora do jantar vegano, servido a todos os presentes. O
 prato da noite era um delicioso strogonoff com arroz. A distribuição das porções provou a
@@ -85,14 +85,13 @@ lixo. Só faltou uma melhor sinalização das lixeiras específicas e também ta
 melhor pelo espaço. Mas no geral quem compareceu teve a consciência de manter o local limpo
 e livre de drogas.
 
-Para embalar a galera no fechamento do evento rolou o baile hip hop com xEdge With Dreadsx
+Para embalar a galera no fechamento do evento rolou o baile hip hop com **xEdge With Dreadsx**
 (EUA), que mandou muito bem. É o estilo de vida libertário livre de drogas indo além das
 fronteiras do hardcore.
 
-> “Continuo firme e sóbrio, ciente de mim;
-Minha vitória, o seu fracasso”
-<br/>
-xLost in Hatex
+> Continuo firme e sóbrio, ciente de mim;
+  Minha vitória, o seu fracasso<br>
+  *xLost in Hatex*
 
 O Verdurada-DF surpreendeu pelo resultado bastante positivo. Reuniu um público plural, do
 anarcopunk ao straightedge cristão. As sete horas de evento foram marcadas por um clima de

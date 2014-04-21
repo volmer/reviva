@@ -33,7 +33,7 @@ religião para justificar o que acontece à sua volta.
 Com a educação é semelhante, mas com proporções ainda piores se considerarmos a
 idade em que as inocentes crianças encontram-se logo no inicio da vida escolar
 (por volta de seis anos). É uma idade propícia para disseminar as intenções
-religiosas, mesmo sabendo que o Estado brasileiro é laico, ou seja, não possui
+religiosas, mesmo sabendo que o **Estado brasileiro é laico**, ou seja, não possui
 uma religião oficial. No entanto, durante toda a história da educação brasileira,
 desde o início com os jesuítas, percebemos a forte e constante presença da
 religião, mais precisamente da Igreja Católica. Apesar da laicidade, a Igreja
@@ -41,7 +41,7 @@ sempre esteve e ainda está presente.
 
 Faz alguns anos, não sei exatamente quantos, que a Igreja Católica perde espaço
 para outro segmento religioso: o protestantismo. Na verdade, poucos são os que
-assim se identificam, pois em nada protestam. Se identificam como “Evangélicos/as”
+assim se identificam, pois em **nada protestam**. Se identificam como “Evangélicos/as”
 e de maneira geralmente alienante, como se dopados por ópio, seguem orientações
 religiosas de pastores/as e intérpretes da Bíblia.
 

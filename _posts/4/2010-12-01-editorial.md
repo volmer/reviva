@@ -21,17 +21,17 @@ lambança das eleições para completar o pacote festivo. Promessas maravilhosas
 mirabolantes, o país dividido em corações aflamados, compras de votos, manipulações
 midiáticas violentas. Tudo o que já é de praxe na dita Festa da Democracia, mas que, pelo
 estado entorpecido do povo, é uma fórmula que dá certo a cada biênio. Figurões sobem e
-descem, o statu quo permanece. E o sono geral também.
+descem, o *statu quo* permanece. E o sono geral também.
 
-O zine está aqui mais uma vez, e propõe um despertar. O REVIVA! vem em sua quarta edição
+O zine está aqui mais uma vez, e propõe um despertar. O *REVIVA!* vem em sua quarta edição
 apertar as feridas desses assuntos com as palavras de nossos colaboradores sangrentos. A
 realidade do velho oeste baiano e de outros recantos revezam-se nas páginas a seguir,
 mostrando que nem todos estão deitados eternamente em berço esplêndido. Crie sua arte,
 subverta o comodismo, acorde pra cuspir!
 
-# Agradecimentos
+## Agradecimentos
 Aos colaboradores intrépidos desta edição: Alana (o rapaz escrevedor), Su, Loise e She
 Drink’s. Sem vocês essas páginas seriam ainda mais monocromáticas. Muito obrigado também
 aos amigos das mais variadas cenas que apreciam nosso zine com apoios, sugestões e
-cobranças. Os retornos de vocês por e-mails e comentários no radicaos.com são incentivos
+cobranças. Os retornos de vocês por e-mails e comentários no [radicaos.com](http://radicaos.com) são incentivos
 fortes para que nossa iniciativa mantenha-se. Valeu mesmo!

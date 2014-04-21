@@ -25,25 +25,25 @@ no fim do ano passado, mas deixou de herança o registro musical das primeiras
 engatinhadas de um movimento de cultura independente em nossa cidade.
 
 ## Gentil Servidão
-  Que linda a sua manipulação
- Governa a todos em uma ação
- Meu corpo diz que sim, mas a mente não
+  Que linda a sua manipulação<br>
+ Governa a todos em uma ação<br>
+ Meu corpo diz que sim, mas a mente não<br>
  Adoro servir, amei a escravidão
 
-  Amo o caralho!
-Quero ver você cair!
- Das portas da minha mente quero ver você sair
- Se continuar desse jeito vou anarquizar
+  Amo o caralho!<br>
+Quero ver você cair!<br>
+ Das portas da minha mente quero ver você sair<br>
+ Se continuar desse jeito vou anarquizar<br>
  Obedecer ao dinheiro, nem se me pagar
 
-  Olhe só o novo uniforme 
-Ele vem com drogas mais fortes 
-Pra ajudar a construir 
+  Olhe só o novo uniforme <br>
+Ele vem com drogas mais fortes<br> 
+Pra ajudar a construir <br>
 O admirável mundo novo pra não cair
 
- E é claro que sim
- Suas propagandas são convincentes 
-Cega nossos olhos e disseca
+ E é claro que sim<br>
+ Suas propagandas são convincentes<br> 
+Cega nossos olhos e disseca<br>
  A nossa mente!
 
 

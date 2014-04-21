@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
 
     <title>
-      {{ page.title }}
       {% if page.title != nil %}
-      ·
+        {{ page.title }} ·
+      {% elsif page.number != nil %}
+        {{ site.data.issues[page.number].title }} ·
       {% endif %}
       Zine Cultural Reviva
     </title>

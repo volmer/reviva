@@ -39,7 +39,7 @@ reproduzida num meio digital, porém a presença do Reviva na web mantém a alma
 projeto viva e acessível a quem se interessar.
 
 Apesar de Correntina ainda ser tão parecida com aquela descrita nos textos do Reviva,
-estes materias são testemunho de que alternativas existem, mesmo num lindo mar de
+estes materiais são testemunho de que alternativas existem, mesmo num lindo mar de
 mesmice. Que o zine Reviva continue a inspirar e que o legado dos seus autores
 faça surgir outras iniciativas semelhantes na nossa região. REVIVA!
 

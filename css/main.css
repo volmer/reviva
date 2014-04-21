@@ -166,31 +166,13 @@ footer a:hover {
 
 .issue ol {
   background-repeat: no-repeat;
-  background-position: bottom right;
-  background-size: contain;
+  background-position: center right;
+  background-size: auto 300px;
   min-height: 300px;
+  margin-bottom: 80px;
 }
 
 /* INDEX */
-
-.issues {
-  list-style: none;
-  text-align: center;
-  margin-bottom: 40px;
-}
-
-.issues li {
-  display: inline-block;
-}
-
-.issues img {
-  width: 150px;
-}
-
-.issues a {
-  display: inline-block;
-  margin: 0 10px;
-}
 
 .posts {
   margin-left: 40px;

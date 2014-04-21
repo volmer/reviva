@@ -29,6 +29,8 @@ body {
 
 p {
   margin: 1em 0;
+  line-height: 1.5;
+  text-align: justify;
 }
 
 a, a:visited {
@@ -38,6 +40,15 @@ a, a:visited {
 
 a:hover {
   color: #000;
+}
+
+h1 {
+  margin: 20px 0 10px;
+  font-size: 36px;
+}
+
+h1, h1 a, h1 a:visited {
+  color: #333;
 }
 
 .container {
@@ -57,6 +68,8 @@ a:hover {
   zoom:1; /* For IE 6/7 (trigger hasLayout) */
 }
 
+/* HEADER */
+
 header {
   padding: 40px 0;
 }
@@ -66,11 +79,11 @@ header h1 {
   font-family: 'Trade Winds', cursive;
   font-weight: normal;
   text-align: center;
-  line-height: 0.5em;
+  line-height: 0.8;
 }
 
-header h1 a:hover {
-  color: #fff;
+header h1 a, header h1 a:visited, header h1 a:hover {
+  color: #999;
 }
 
 header h1 small {
@@ -81,17 +94,14 @@ header h1 small {
   font-weight: bold;
 }
 
-.main h1 {
-  margin-bottom: 2em;
-}
-
-.main h2 {
-  font-size: 20px;
-}
+/* FOOTER */
 
 footer {
-  text-align: center;
   margin: 40px 0;
+}
+
+footer p {
+  text-align: center;
 }
 
 footer a, footer a:visited {
@@ -110,3 +120,23 @@ footer a:hover {
   color: #ccc;
 }
 
+/* POST */
+
+.post .author {
+  font-family: serif;
+  font-size: 18px;
+  font-style: italic;
+  color: #666;
+  margin: 0;
+}
+
+.post .meta {
+  text-align: right;
+  font-size: 13px;
+  color: #777;
+  margin: 0;
+}
+
+.post-content {
+  margin-top: 40px;
+}

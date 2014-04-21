@@ -4,10 +4,15 @@
     <meta charset="UTF-8">
 
     <title>
-      {{ page.title }} · Zine Cultural Reviva
+      {{ page.title }}
+      {% if page.title != nil %}
+      ·
+      {% endif %}
+      Zine Cultural Reviva
     </title>
 
-    <meta name="keywords" content="Zine, Reviva, Correntina, Bahia, Volmer, Contra cultura, Rock, Punk, DIY, alternativo">
+    <meta name="keywords" content="Zine, Reviva, Correntina, Bahia, Oeste, Volmer,
+      Contra cultura, Rock, Punk, DIY, alternativo, anarquistas">
 
     <meta name="description" content="Zine Cultural Reviva, primeiro zine de Correntina.
       Aqui você encontra todos os textos publicados nas quatro edições do Reviva.">

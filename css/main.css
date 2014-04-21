@@ -50,8 +50,12 @@ h1, h2 {
   margin: 20px 0 10px;
 }
 
-h1, h1 a, h1 a:visited {
+h1, h1 a, h1 a:visited, h3, h3 a, h3 a:visited {
   color: #333;
+}
+
+h1 a:hover, h3 a:hover {
+  color: #999;
 }
 
 .container {
@@ -150,6 +154,7 @@ footer a:hover {
 }
 
 /* ISSUE */
+
 .issue h1, .issue h2 {
   text-align: center;
 }
@@ -159,16 +164,47 @@ footer a:hover {
   color: #777;
 }
 
-.issue li {
-  margin-left: 40px;
-  line-height: 2;
-  font-size: 16px;
-  text-shadow: #eee 0 0 1px;
-}
-
 .issue ol {
   background-repeat: no-repeat;
   background-position: bottom right;
   background-size: contain;
   min-height: 300px;
+}
+
+/* INDEX */
+
+.issues {
+  list-style: none;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.issues li {
+  display: inline-block;
+}
+
+.issues img {
+  width: 150px;
+}
+
+.issues a {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.posts {
+  margin-left: 40px;
+}
+
+.posts li {
+  margin-bottom: 10px;
+  text-shadow: #eee 0 0 1px;
+}
+
+.posts .author {
+  font-size: 14px;
+}
+
+.comments-count {
+  font-size: 11px;
 }

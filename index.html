@@ -1,54 +1,28 @@
 ---
 layout: default
-title: Edições
 ---
 
-<ol>
-  <li>
-    A Arte que Transforma
+<ul class="issues">
+  {% for issue in site.categories %}
+    <li>
+      <a href="/{{ issue | first }}">
+        <img src="/images/{{ issue | first }}/cover.jpg" alt="Zine Reviva Nº {{ issue | first }}">
+      </a>
+    </li>
+  {% endfor %}
+</ul>
 
-    <ol>
-      {% for post in site.categories.1 reversed %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endfor %}
-    </ol>
-  </li>
+<ul class="posts">
+  {% for post in site.posts reversed %}
+    <li class="post">
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <span class="author">
+        Por {{ post.author }}
+      </span>
+      -
+      <a href="{{ post.url }}#disqus_thread" class="comments-count"></a>
+    </li>
+  {% endfor %}
+</ul>
 
-  <li>
-    A Melodia do Grito
-
-    <ol>
-      {% for post in site.categories.2 reversed %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endfor %}
-    </ol>
-  </li>
-
-  <li>
-    O Milagre da Resistência
-
-    <ol>
-      {% for post in site.categories.3 reversed %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endfor %}
-    </ol>
-  </li>
-
-  <li>
-    A Morte do Diabo
-
-    <ol>
-      {% for post in site.categories.4 reversed %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endfor %}
-    </ol>
-  </li>
-</ol>
+{% include disqus_count.html %}

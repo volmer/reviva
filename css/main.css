@@ -46,15 +46,19 @@ h1 {
   font-size: 36px;
 }
 
+h2 {
+  font-size: 22px;
+}
+
 h1, h2 {
   margin: 20px 0 10px;
 }
 
-h1, h1 a, h1 a:visited, h3, h3 a, h3 a:visited {
+h1, h1 a, h1 a:visited, h2, h2 a, h2 a:visited, h3, h3 a, h3 a:visited {
   color: #333;
 }
 
-h1 a:hover, h3 a:hover {
+h1 a:hover, h2 a:hover, h3 a:hover {
   color: #999;
 }
 
@@ -153,6 +157,14 @@ footer a:hover {
   text-align: center;
 }
 
+.post p:first-child:first-letter {
+  font-family: serif;
+  font-size: 60px;
+  float: left;
+  margin-right: 10px;
+  line-height: 0.5;
+}
+
 /* ISSUE */
 
 .issue h1, .issue h2 {
@@ -162,6 +174,8 @@ footer a:hover {
 .issue h2 {
   margin: 0 0 60px;
   color: #777;
+  font-weight: 500;
+  font-size: 20px;
 }
 
 .issue ol {

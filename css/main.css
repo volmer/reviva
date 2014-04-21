@@ -43,8 +43,11 @@ a:hover {
 }
 
 h1 {
-  margin: 20px 0 10px;
   font-size: 36px;
+}
+
+h1, h2 {
+  margin: 20px 0 10px;
 }
 
 h1, h1 a, h1 a:visited {
@@ -139,4 +142,28 @@ footer a:hover {
 
 .post-content {
   margin-top: 40px;
+}
+
+/* ISSUE */
+.issue h1, .issue h2 {
+  text-align: center;
+}
+
+.issue h2 {
+  margin: 0 0 60px;
+  color: #777;
+}
+
+.issue li {
+  margin-left: 40px;
+  line-height: 2;
+  font-size: 16px;
+  text-shadow: #eee 0 0 1px;
+}
+
+.issue ol {
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: contain;
+  min-height: 300px;
 }

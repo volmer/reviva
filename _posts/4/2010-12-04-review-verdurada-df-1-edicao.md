@@ -89,8 +89,9 @@ Para embalar a galera no fechamento do evento rolou o baile hip hop com xEdge Wi
 (EUA), que mandou muito bem. É o estilo de vida libertário livre de drogas indo além das
 fronteiras do hardcore.
 
-“Continuo firme e sóbrio, ciente de mim;
+> “Continuo firme e sóbrio, ciente de mim;
 Minha vitória, o seu fracasso”
+<br/>
 xLost in Hatex
 
 O Verdurada-DF surpreendeu pelo resultado bastante positivo. Reuniu um público plural, do

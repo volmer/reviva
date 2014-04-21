@@ -13,7 +13,7 @@ culturais. Para combater toda essa apatia e indiferença é que surgiu o Reviva,
 visando difundir as boas iniciativas e ideias que ultrapassassem o senso comum.
 
 Conforme citado no [editorial do número um](/1/editorial), a proposta era juntar pessoas com
-vontade de escrever, fugir da mesmice e divulgar o que rolava de diferente na região.
+vontade de escrever, fugir do marasmo e divulgar o que rolava de alternativo na região.
 Diferentes opiniões e pontos de vista não tinham barreira no Reviva, e uma pluralidade
 enorme de materias puderam ser compiladas nas páginas preto-e-branco: entrevistas,
 resenhas, poemas, críticas, anúncios de eventos e desabafos.
@@ -31,7 +31,7 @@ dos exemplares. Graças à ajuda voluntária de nossos amigos o Reviva pôde ser
 diversos cantos do Brasil, chegando a mãos improváveis em feiras, festivais e até via
 compartilhamento por carta e scans.
 
-Agora, tantos anos depois, os textos do Reviva tornam-se públicos novamente em páginas
+Passado-se tantos anos, agora os textos do Reviva tornam-se públicos novamente em páginas
 web. Neste site é possível acessar os conteúdos das quatro edições do zine, graças a
 um trabalho de recuperação, formatação e design que ainda está em andamento. É certo
 que a experiência de ler um exemplar físico do zine nunca será perfeitamente
@@ -41,7 +41,14 @@ projeto viva e acessível a quem se interessar.
 Apesar de Correntina ainda ser tão parecida com aquela descrita nos textos do Reviva,
 estes materias são testemunho de que alternativas existem, mesmo num lindo mar de
 mesmice. Que o zine Reviva continue a inspirar e que o legado dos seus autores
-faça surgir novas iniciativas livres na nossa região. REVIVA!
+faça surgir outras iniciativas semelhantes na nossa região. REVIVA!
 
 Volmer<br>
 Editor
+
+## Entre em contato!
+
+Gostou do zine? Já conhecia o Reviva? Tem críticas a fazer? Sugestões? Deseja
+colaborar de alguma forma? Hã? Hã?
+Escreva pra gente nos comentários dos textos ou envie um email para
+**[reviva@radicaos.com](mailto:reviva@radicaos.com)**.

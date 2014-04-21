@@ -144,6 +144,11 @@ footer a:hover {
   margin-top: 40px;
 }
 
+.disqus {
+  margin: 40px 0;
+  text-align: center;
+}
+
 /* ISSUE */
 .issue h1, .issue h2 {
   text-align: center;

@@ -8,4 +8,16 @@
       Reviva
     </a>
   </h1>
+
+  <nav>
+    {% for issue in site.categories %}
+      <a href="/{{ issue | first }}">
+        Reviva nº {{ issue | first }}
+      </a>
+    {% endfor %}
+
+    <a href="/about">
+      Sobre
+    </a>
+  </nav>
 </header>

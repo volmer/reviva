@@ -41,7 +41,7 @@ li {
 
 a, a:visited {
   text-decoration: none;
-  color: #999;
+  color: #888;
 }
 
 a:hover {
@@ -54,6 +54,8 @@ h1 {
 
 h2 {
   font-size: 22px;
+  color: #777;
+  font-weight: 500;
 }
 
 h1, h2 {
@@ -223,6 +225,10 @@ footer a:hover {
   line-height: 0.5;
 }
 
+.main p a {
+  text-decoration: underline;
+}
+
 /* ISSUE */
 
 .issue h1, .issue h2 {
@@ -231,8 +237,6 @@ footer a:hover {
 
 .issue h2 {
   margin: 0 0 60px;
-  color: #777;
-  font-weight: 500;
   font-size: 20px;
 }
 

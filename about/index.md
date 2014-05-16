@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: 'Sobre'
+heading: 'Sobre o Zine Reviva'
 ---
-
-# Sobre o Zine Reviva
 
 O Reviva foi o primeiro zine de Correntina. Isso mesmo: Correntina, um ponto de
 civilização no meio do cerrado do oeste baiano. Uma pequena cidade do interior

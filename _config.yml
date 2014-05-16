@@ -1,4 +1,10 @@
+# Site settings
 name: Zine Cultural Reviva
-markdown: redcarpet
-pygments: true
+title: Zine Cultural Reviva
+email: reviva@radicaos.com
+description: 'Zine Cultural Reviva, primeiro zine de Correntina. Aqui você encontra todos os textos publicados nas quatro edições do Reviva.'
+url: 'http://reviva.radicaos.com'
+
+# Build settings
+markdown: kramdown
 permalink: /:categories/:title/

@@ -8,3 +8,5 @@ url: 'http://reviva.radicaos.com'
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
+gems:
+  - jekyll-sitemap

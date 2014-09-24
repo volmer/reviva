@@ -12,15 +12,44 @@
       {{ site.title }}
     </title>
 
-    {% if page.description %}
-      <meta name="description" content="{{ page.description }}" />
-    {% elsif page.excerpt %}
-      <meta name="description" content="{{ page.excerpt | strip_html | truncatewords: 200 | strip_newlines | escape_once }}" />
-    {% elsif page.number %}
-      <meta name="description" content="{{ site.data.issues[page.number].title }}, a edição número {{ page.number }} do Zine Reviva." />
+    <meta property="og:site_name" content="{{ site.title }}" />
+
+    {% if page.type %}
+      <meta property="og:type" content="{{ page.type }}" />
     {% else %}
-      <meta name="description" content="{{ page.content | strip_html | truncatewords: 200 | strip_newlines | escape_once }}" />
+      <meta property="og:type" content="article" />
     {% endif %}
+
+    <meta property="og:locale" content="pt_BR" />
+
+    <meta property="og:determiner" content="auto" />
+
+    {% if page.title %}
+      <meta property="og:title" content="{{ page.title }}" />
+    {% elsif page.number %}
+      <meta property="og:title" content="{{ site.data.issues[page.number].title }}" />
+    {% else %}
+      <meta property="og:title" content="{{ site.title }}" />
+    {% endif %}
+
+    {% if page.author %}
+      <meta property="article:author" content="{{ page.author }}" />
+      <meta name="author" content="{{ page.author }}" />
+    {% endif %}
+
+    {% if page.description %}
+      {% assign meta_description = page.description %}
+    {% elsif page.excerpt %}
+      {% capture meta_description %}{{ page.excerpt | strip_html | truncatewords: 200 | strip_newlines | escape_once }}{% endcapture %}
+    {% elsif page.number %}
+      {% capture meta_description %}{{ site.data.issues[page.number].title }}, a edição número {{ page.number }} do Zine Reviva.{% endcapture %}
+    {% else %}
+      {% capture meta_description %}{{ page.content | strip_html | truncatewords: 200 | strip_newlines | escape_once }}{% endcapture %}
+    {% endif %}
+    <meta name="description" content="{{ meta_description }}" />
+    <meta property="og:description" content="{{ meta_description }}" />
+
+    <meta content="{{ site.url }}{{ page.url | replace:'/index.html','/' }}" property="og:url" />
 
     <link href="/favicon.png" rel="shortcut icon" type="image/x-icon">
     <link rel="stylesheet" href="/css/main.css">

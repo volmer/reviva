@@ -7,16 +7,20 @@
     Zine Reviva Nº {{ include.number }} - {{ site.data.issues[include.number].release }}
   </h2>
 
-  <ol class="posts" style="background-image: url('/images/{{ include.number }}/cover.jpg')">
-    {% for post in site.categories[include.number] reversed %}
-      <li class="post">
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <span class="author">
-          Por {{ post.author }}
-        </span>
-        -
-        <a href="{{ post.url }}#disqus_thread" class="comments-count"></a>
-      </li>
-    {% endfor %}
-  </ol>
+  <div class="clearfix">
+    <img src="/images/{{ include.number }}/cover.jpg" alt="{{ site.data.issues[include.number].title }}" />
+
+    <ol class="posts">
+      {% for post in site.categories[include.number] reversed %}
+        <li class="post">
+          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          <span class="author">
+            Por {{ post.author }}
+          </span>
+          -
+          <a href="{{ post.url }}#disqus_thread" class="comments-count"></a>
+        </li>
+      {% endfor %}
+    </ol>
+  </div>
 </div>

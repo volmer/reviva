@@ -256,12 +256,13 @@ footer a:hover {
   font-size: 20px;
 }
 
-.issue ol {
-  background-repeat: no-repeat;
-  background-position: center right;
-  background-size: auto 300px;
-  min-height: 300px;
-  margin-bottom: 80px;
+.issue {
+  margin-bottom: 20px;
+}
+
+.issue img {
+  float: right;
+  width: 300px;
 }
 
 /* INDEX */
@@ -278,3 +279,15 @@ footer a:hover {
 .comments-count {
   font-size: 11px;
 }
+
+.clearfix:before {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after {
+  content: " ";
+  display: table;
+  clear: both;
+}
+

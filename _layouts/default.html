@@ -40,11 +40,11 @@
     {% if page.description %}
       {% assign meta_description = page.description %}
     {% elsif page.excerpt %}
-      {% capture meta_description %}{{ page.excerpt | strip_html | truncatewords: 200 | strip_newlines | escape_once }}{% endcapture %}
+      {% capture meta_description %}{{ page.excerpt | strip_html | truncatewords: 200 | escape_once }}{% endcapture %}
     {% elsif page.number %}
       {% capture meta_description %}{{ site.data.issues[page.number].title }}, a edição número {{ page.number }} do Zine Reviva.{% endcapture %}
     {% else %}
-      {% capture meta_description %}{{ page.content | strip_html | truncatewords: 200 | strip_newlines | escape_once }}{% endcapture %}
+      {% capture meta_description %}{{ page.content | strip_html | truncatewords: 200 | escape_once }}{% endcapture %}
     {% endif %}
     <meta name="description" content="{{ meta_description }}" />
     <meta property="og:description" content="{{ meta_description }}" />

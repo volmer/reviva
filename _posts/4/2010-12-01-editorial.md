@@ -33,5 +33,5 @@ subverta o comodismo, acorde pra cuspir!
 Aos colaboradores intrépidos desta edição: Alana (o rapaz escrevedor), Su, Loise e She
 Drink’s. Sem vocês essas páginas seriam ainda mais monocromáticas. Muito obrigado também
 aos amigos das mais variadas cenas que apreciam nosso zine com apoios, sugestões e
-cobranças. Os retornos de vocês por e-mails e comentários no [radicaos.com](http://radicaos.com) são incentivos
+cobranças. Os retornos de vocês por e-mails e comentários no [radicaos.com](https://radicaos.com) são incentivos
 fortes para que nossa iniciativa mantenha-se. Valeu mesmo!

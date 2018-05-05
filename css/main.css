@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Trade+Winds|Special+Elite);
+@import url('https://fonts.googleapis.com/css?family=Trade+Winds|Special+Elite');
 
 * {
   margin: 0;
@@ -290,4 +290,3 @@ footer a:hover {
   display: table;
   clear: both;
 }
-

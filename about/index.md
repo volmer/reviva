@@ -44,10 +44,3 @@ faça surgir outras iniciativas semelhantes na nossa região. REVIVA!
 
 Volmer<br>
 Editor
-
-## Entre em contato!
-
-Gostou do zine? Já conhecia o Reviva? Tem críticas a fazer? Sugestões? Deseja
-colaborar de alguma forma? Hã? Hã?
-Escreva pra gente nos comentários dos textos ou envie um email para
-**[reviva@radicaos.com](mailto:reviva@radicaos.com)**.

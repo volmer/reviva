@@ -179,10 +179,6 @@ footer a, footer a:visited {
   color: #fff;
 }
 
-footer .divider {
-  margin: 0 30px;
-}
-
 footer .copyleft {
   font-size: 13px;
 }
@@ -212,11 +208,6 @@ footer a:hover {
   margin-top: 40px;
 }
 
-.disqus {
-  margin: 40px 0;
-  text-align: center;
-}
-
 .post p:first-child:first-letter {
   font-family: serif;
   font-size: 60px;
@@ -227,22 +218,6 @@ footer a:hover {
 
 .main p a {
   text-decoration: underline;
-}
-
-/* SHARE */
-
-.share {
-  margin: 20px 0;
-  text-align: right;
-}
-
-.share .share-button {
-  display: inline-block;
-  margin-left: 10px;
-}
-
-.share-button.facebook {
-  vertical-align: top;
 }
 
 /* ISSUE */
